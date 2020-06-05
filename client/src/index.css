@@ -1,0 +1,13 @@
+:root {
+  --light-blue: #2e3c3d;
+  --dark-blue: #1c2b30;
+}
+
+* {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-family: 'PT Sans Narrow', sans-serif;
+}
+html, body {
+  position:relative;
+  overflow-x:hidden;
+}
